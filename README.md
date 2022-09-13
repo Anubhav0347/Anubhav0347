@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anubhav Kumar
-- 👀 I’m interested in Full stack develpoement.
+- 👀 I’m interested in Full stack developement.
 - 🌱 I’m currently learning node.js, express.js and mongodb.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
